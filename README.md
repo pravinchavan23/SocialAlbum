@@ -2,6 +2,11 @@
 	SocialAlbum is a web application where people can login using facebook account and go through their facebook albums. User can download all or selected album as ZIP and also can move all or selected album to google drive. User can also start slideshow showing photos in album.
 
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/pravinchavan23/SocialAlbum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/pravinchavan23/SocialAlbum/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/pravinchavan23/SocialAlbum/badges/build.png?b=master)](https://scrutinizer-ci.com/g/pravinchavan23/SocialAlbum/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/pravinchavan23/SocialAlbum/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
+
 ## Features
 
 * Slideshow of Album Photos  
